@@ -7,7 +7,7 @@ Initiate a Gfxwrapper class  <br>
 VGA3BitI vga;
 GfxWrapper<VGA3BitI gfx(vga, 640, 480);
 ```
-Then set the orientation of teh class wherever necessary:<br>
+Then set the orientation of the class wherever necessary:<br>
 ```C++
 gfx.orientation = 90;
 ```
