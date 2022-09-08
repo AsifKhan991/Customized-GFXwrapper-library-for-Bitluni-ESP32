@@ -1,4 +1,4 @@
-# Customized-GFXwrapper-library-for-Bitluni-ESP32
+# Customized-GFXwrapper-library-for-Bitluni-ESP32lib
 First of all a HUGE thanks to [bitluni](https://github.com/bitluni) for creating such an [amazing library](https://github.com/bitluni/ESP32Lib) it saved me big time while doing a project.<br>
 However, as of current version (0.3.4) the vga library doesn't have any method for rotating the display. This repository contains the edited GFxwrapper library and example where rotation and flipping of display is enabled.<br>
 # Usage
